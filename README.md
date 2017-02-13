@@ -1,3 +1,11 @@
-# Web 2 Starter
+# Google Doodle
 
-Put information about your project here. 
+## Brainstorming Ideas
+
+* Come up with ideas
+
+## Research ideas
+
+* Links
+* Movies
+* Presentation
