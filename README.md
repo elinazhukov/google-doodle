@@ -2,8 +2,9 @@
 
 ## Brainstorm Ideas
 
-* ABC
-* XYZ
+* National Women's Day (March 8)
+* Lines
+* Spokane's Bloomsday
 
 
 ## Content Doodle
