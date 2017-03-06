@@ -3,5 +3,86 @@
 @import 'google-homepage';
 
 
+/* Doodle Stage */
+#stage {
+  background: white;
+  height: 300px;
+  width: 600px;
+  
+  
+   // Hide Overflowing Elements
+  overflow: hidden;
+  
+  // Relative Parent
+  position: relative;
+}
+
+svg {
+  height: 300px;
+  width: 600px;
+}
+
+#red,
+#green,
+#pink,
+#brown,
+#purple,
+#yellow {
+  position: absolute;
+  animation: slideInUp 7s;
+}
+
+	.st0  {fill:#FF2D00;}
+
+
+	.st1  {fill:#DDDCC5;
+         stroke:#FF2D00;
+         stroke-miterlimit:10;}
+
+	.st2  {fill:none;
+         stroke:#958976;
+         stroke-width:5;
+         stroke-linecap:round;
+         stroke-linejoin:round;
+         stroke-miterlimit:10;}
+
+	.st3  {fill:#E84167;}
+
+	.st4  {fill:#38B97A;}
+
+	.st5  {fill:#D6CCAD;}
+
+	.st6  {fill:#D6655A;}
+
+	.st7  {fill:#DDDCC5;}
+
+	.st8  {fill:#40152A;}
+
+	.st9  {fill:#30282A;}
+
+	.st10 {fill:#8C1657;}
+
+	.st11 {fill:#F2CA52;}
+
+@keyframes slideInUp {
+  from {
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+    visibility: visible;
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+
+	
+
+
+
+
+
 
 
